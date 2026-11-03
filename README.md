@@ -52,3 +52,4 @@ After exporting, you can generate an Allure report with the following command:
 ```bash
 allure serve /path/to/outputDirectory
 ```
+
